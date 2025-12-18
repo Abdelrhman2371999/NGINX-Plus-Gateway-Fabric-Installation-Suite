@@ -334,4 +334,3 @@ sudo apt upgrade nginx-plus
 
 **Note**: This installation guide is for evaluation purposes using a trial license. For production deployments, ensure you have the appropriate commercial licenses and follow your organization's security and compliance requirements.
 
-*Last Updated: $(date +%Y-%m-%d)*
