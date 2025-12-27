@@ -1,4 +1,4 @@
-```markdown
+```
 # 🚀 NGINX Plus & Gateway Fabric Installation Suite
 
 A comprehensive toolkit for deploying and managing **NGINX Plus** and **NGINX Gateway Fabric (NGF)** in production Kubernetes environments.
